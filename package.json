@@ -1,11 +1,15 @@
 {
   "name": "cli-tool-sample",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "author": "takashi_shiratori",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t-shiratori/cli-tool-sample"
+  },
   "bin": {
     "hello": "dist/index.js"
   },
