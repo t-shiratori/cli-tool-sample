@@ -1,6 +1,6 @@
 # Overview
 
-Sample cli tool package using pnpm and vite.
+Sample CLI tools package using pnpm and vite.
 
 # Package Useage
 
